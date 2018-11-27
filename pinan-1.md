@@ -3,7 +3,7 @@
 1. left foot forward | left low block
 1. 5 straight punches (right start)
 1. catch left | look right/back
-1. 180 right turn (right foot fwd) into right middle block
+1. 180 right turn (right foot fwd) -> right middle block
 1. left straight punch
 1. elbow | right foot step back
 1. catch right | look right
